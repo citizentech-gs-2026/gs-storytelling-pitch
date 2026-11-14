@@ -1,12 +1,22 @@
-# [Nome da CitizenTech] · Pitch
+# Testemunha · Pitch
 
 > **Storytelling & Inspiração Empreendedora** · Global Solution FIAP 2026.2 · CitizenTech da Minha Cidade
 > Entrega: **19/11/2026, 23h55** · Teams: documento com e-mail + link do vídeo
 
-Esta é uma das partes da CitizenTech **[Nome]**. A ficha completa, a pesquisa e as decisões ficam no [gs-docs](https://github.com/citizentech-gs-2026/gs-docs).
+Esta é uma das partes da CitizenTech **Testemunha**. A ficha completa, a pesquisa e as decisões ficam no [gs-docs](https://github.com/citizentech-gs-2026/gs-docs).
+
+## A CitizenTech em uma frase
+**Testemunha** (nome provisório): um sensor barato no ar e na parede fria de cada cômodo calcula o ponto de orvalho. Ele avisa antes de o mofo aparecer, diz se abrir a janela ajuda ou piora e guarda um histórico que vira prova do morador.
+
+| | |
+|---|---|
+| Cidadão | Família que mora de aluguel ou em casa precária com mofo, principalmente com criança ou pessoa com asma, rinite ou alergia |
+| Problema | O mofo cresce escondido, adoece quem mora na casa, e quando a família reclama não tem como provar que o problema é do imóvel |
+| Cidade | São Paulo (SP) |
+| ODS | 3 (saúde), 11 (cidades e moradia), 10 (menos desigualdade) |
 
 ## O que esta parte faz
-A história e o vídeo de 3 minutos que apresentam a solução e quem ela ajuda, mais a marca (arquétipo, missão, visão, valores).
+O vídeo de 3 minutos (caso Awaab, a realidade de SP, a demo "não abra a janela agora" e o laudo) e o e-mail do arquétipo de marca (**Cuidador**).
 
 ## Estrutura
 ```
