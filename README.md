@@ -1,12 +1,12 @@
-# Testemunha · Pitch
+# Garoa · Pitch
 
 > **Storytelling & Inspiração Empreendedora** · Global Solution FIAP 2026.2 · CitizenTech da Minha Cidade
 > Entrega: **19/11/2026, 23h55** · Teams: documento com e-mail + link do vídeo
 
-Esta é uma das partes da CitizenTech **Testemunha**. A ficha completa, a pesquisa e as decisões ficam no [gs-docs](https://github.com/citizentech-gs-2026/gs-docs).
+Esta é uma das partes da CitizenTech **Garoa**. A ficha completa, a pesquisa e as decisões ficam no [gs-docs](https://github.com/citizentech-gs-2026/gs-docs).
 
 ## A CitizenTech em uma frase
-**Testemunha** (nome provisório): um sensor barato no ar e na parede fria de cada cômodo calcula o ponto de orvalho. Ele avisa antes de o mofo aparecer, diz se abrir a janela ajuda ou piora e guarda um histórico que vira prova do morador.
+**Garoa**: um sensor barato no ar e na parede fria de cada cômodo calcula o ponto de orvalho. Ele avisa antes de o mofo aparecer, diz se abrir a janela ajuda ou piora e guarda um histórico que vira prova do morador.
 
 | | |
 |---|---|
