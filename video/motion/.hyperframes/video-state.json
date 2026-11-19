@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "historyId": "108c48de-b691-4829-b286-18371c44f425",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "729e31835a21c7b42ee006e2aacc63016abc05d26883f871ad3bf206943f2cfb",
+      "content": "/Users/savioomiodev/.cache/hyperframes/history/108c48de-b691-4829-b286-18371c44f425/blobs/72/729e31835a21c7b42ee006e2aacc63016abc05d26883f871ad3bf206943f2cfb"
+    },
+    "CLAUDE.md": {
+      "hash": "729e31835a21c7b42ee006e2aacc63016abc05d26883f871ad3bf206943f2cfb",
+      "content": "/Users/savioomiodev/.cache/hyperframes/history/108c48de-b691-4829-b286-18371c44f425/blobs/72/729e31835a21c7b42ee006e2aacc63016abc05d26883f871ad3bf206943f2cfb"
+    },
+    "hyperframes.json": {
+      "hash": "35a6d4ea79ebe911f0d81705f7aace5d8ff0316b745b0311d56af50c9c237cb7",
+      "content": "/Users/savioomiodev/.cache/hyperframes/history/108c48de-b691-4829-b286-18371c44f425/blobs/35/35a6d4ea79ebe911f0d81705f7aace5d8ff0316b745b0311d56af50c9c237cb7"
+    },
+    "index.html": {
+      "hash": "e1200027c8fd3e63ee502e14688e5c6277dbd8f4291edb9a51875a1793fed678",
+      "content": "/Users/savioomiodev/.cache/hyperframes/history/108c48de-b691-4829-b286-18371c44f425/blobs/e1/e1200027c8fd3e63ee502e14688e5c6277dbd8f4291edb9a51875a1793fed678"
+    },
+    "meta.json": {
+      "hash": "ba58ed0a9b4db2c72b99c62091245e3f719e1f7d569ed1aec49aa9da8a4e5c1c",
+      "content": "/Users/savioomiodev/.cache/hyperframes/history/108c48de-b691-4829-b286-18371c44f425/blobs/ba/ba58ed0a9b4db2c72b99c62091245e3f719e1f7d569ed1aec49aa9da8a4e5c1c"
+    },
+    "package.json": {
+      "hash": "4486f8c56a9bae5cdacd709d48ae338635b981ee7c1c3aeb13fd2cbc0d132d5b",
+      "content": "/Users/savioomiodev/.cache/hyperframes/history/108c48de-b691-4829-b286-18371c44f425/blobs/44/4486f8c56a9bae5cdacd709d48ae338635b981ee7c1c3aeb13fd2cbc0d132d5b"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "7b367196-c39b-41cc-b5db-135f218da2f3",
+      "completedAt": 1795053151518,
+      "output": "/Users/savioomiodev/FIAP/gs-citizen-tech/repos/gs-storytelling-pitch/video/motion/renders/teste-marca.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": []
+  },
+  "pendingArtifactCleanup": []
+}

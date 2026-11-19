@@ -1,0 +1,7 @@
+# mídia pesada ou com licença que não deixa redistribuir
+brutos/
+saida/
+som/musica/
+*.wav
+*.mkv
+trabalho/
